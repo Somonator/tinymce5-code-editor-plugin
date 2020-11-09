@@ -1,0 +1,1 @@
+# tinymce5-code-editor-plugin
